@@ -6,3 +6,4 @@ scikit-learn
 xgboost == 0.72.1
 imbalanced-learn == 0.4
 yellowbrick
+pycaret == 2.0
